@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">50141883368-arf5emhsapf11pd6q93tnfvt97d42tb9.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://estudioplaya-4b254.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">50141883368</string>
+    <string name="google_api_key" translatable="false">AIzaSyBeRZk3vCTT7UKYpxQMqLcv8QqAN-lCGIs</string>
+    <string name="google_app_id" translatable="false">1:50141883368:android:badae4adb50ad1e7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBeRZk3vCTT7UKYpxQMqLcv8QqAN-lCGIs</string>
+    <string name="google_storage_bucket" translatable="false">estudioplaya-4b254.appspot.com</string>
+</resources>

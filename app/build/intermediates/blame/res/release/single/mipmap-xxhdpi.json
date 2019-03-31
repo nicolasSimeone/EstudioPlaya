@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\xelere-lenovo\\Desktop\\EstudioPlaya\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\xelere-lenovo\\Desktop\\EstudioPlaya\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\xelere-lenovo\\Desktop\\EstudioPlaya\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_play.png",
+        "source": "C:\\Users\\xelere-lenovo\\Desktop\\EstudioPlaya\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_play.png"
+    },
+    {
+        "merged": "C:\\Users\\xelere-lenovo\\Desktop\\EstudioPlaya\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_stop.png",
+        "source": "C:\\Users\\xelere-lenovo\\Desktop\\EstudioPlaya\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\xelere-lenovo\\Desktop\\EstudioPlaya\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ep_notification.png",
+        "source": "C:\\Users\\xelere-lenovo\\Desktop\\EstudioPlaya\\app\\src\\main\\res\\mipmap-xxhdpi\\ep_notification.png"
+    }
+]

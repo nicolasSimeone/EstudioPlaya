@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Estudio Playa</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="descripcion0"><![CDATA[<< Desliza para ver la programación >>]]></string>
+    <string name="descripcion1">De 08 a 10 hs. con Carlos Beillard</string>
+    <string name="descripcion2">De 10 a 11 hs. con Mariano Perusso y Fatima Soares</string>
+    <string name="descripcion3">De 11 a 13 hs. con Sofia "Jujuy" Jimenez</string>
+    <string name="descripcion4">De 13 a 15 hs. con Soledad Villareal</string>
+    <string name="descripcion5">De 15 a 17 hs. con Agustin Raimondo</string>
+    <string name="descripcion6">De 17 a 19 hs. con Agustin Sierra</string>
+    <string name="descripcion7">De 19 a 21 hs. con Guillermo Lopez y Gustavo Olivieri</string>
+    <string name="descripcion8">De 21 a 22 hs.</string>
+    <string name="descripcion9">De 22 a 00 hs. con Mariana Marotta e India Buselli</string>
+    <string name="descripcion10">De 00 a 08 hs. Musicalizado por Fede Ruiz</string>
+
+    <string name="titulo0"></string>
+    <string name="titulo1">Las cosas de la vida</string>
+    <string name="titulo2">Un verano de 10</string>
+    <string name="titulo3">JujuMornings</string>
+    <string name="titulo4">Sol de mediodia</string>
+    <string name="titulo5">Verano Cool</string>
+    <string name="titulo6">Fuera de contexto</string>
+    <string name="titulo7">Vacaciones Pagas</string>
+    <string name="titulo8">Beatles para Badia</string>
+    <string name="titulo9">Y vos tipo</string>
+    <string name="titulo10">Pura Música</string>
+
+
+    <string name="title_activity_you_tube__activiy">YouTube_Activiy</string>
+    <string name="programaci_n">Programación</string>
+    <string name="fondo">Fondo</string>
+    <string name="play">Play</string>
+    <string name="facebook">Facebook</string>
+    <string name="instagram">Instagram</string>
+    <string name="twitter">Twotter</string>
+    <string name="radio">Radio</string>
+    <string name="video">video</string>
+    <string name="estudio_playa_noti">Estudio Playa</string>
+    <string name="title_activity_movistar_">Movistar_Activity</string>
+    <string name="en_vivo_desde_pinamar">En vivo desde pinamar</string>
+    <string name="program_name">Vacaciones Pagas</string>
+    <string name="programacion">Programación</string>
+    <string name="cargando">Cargando...</string>
+
+</resources>

@@ -1,0 +1,7 @@
+#Wed Jan 04 02:18:01 ART 2017
+base.0=C\:\\Users\\xelere-lenovo\\Desktop\\EstudioPlaya\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_354720cbb108abaa19b5c2152b9a44dbda6aef76
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\xelere-lenovo\\Desktop\\EstudioPlaya\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_49d84d9e25b9173a557c2107ccd90ed9203f11bb\\classes.dex
+base.1=C\:\\Users\\xelere-lenovo\\Desktop\\EstudioPlaya\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_49d84d9e25b9173a557c2107ccd90ed9203f11bb
+file.0=C\:\\Users\\xelere-lenovo\\Desktop\\EstudioPlaya\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_354720cbb108abaa19b5c2152b9a44dbda6aef76\\classes.dex

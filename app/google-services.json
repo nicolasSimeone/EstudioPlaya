@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "50141883368",
+    "firebase_url": "https://estudioplaya-4b254.firebaseio.com",
+    "project_id": "estudioplaya-4b254",
+    "storage_bucket": "estudioplaya-4b254.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50141883368:android:badae4adb50ad1e7",
+        "android_client_info": {
+          "package_name": "nupa.estudioplaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50141883368-lgid7jlh2n77hu3v6qbemugihgso3rup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nupa.estudioplaya",
+            "certificate_hash": "FA2EB44DE354B87A75BB21A761FAF6B9482B6E6A"
+          }
+        },
+        {
+          "client_id": "50141883368-arf5emhsapf11pd6q93tnfvt97d42tb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeRZk3vCTT7UKYpxQMqLcv8QqAN-lCGIs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50141883368-arf5emhsapf11pd6q93tnfvt97d42tb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
